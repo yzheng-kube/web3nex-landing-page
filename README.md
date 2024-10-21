@@ -1,4 +1,23 @@
-            .container {
+            <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buy Web3nex Domains Package</title>
+    <meta name="description" content="Web3nex domain package includes web3nex.com and web3nex.eth, along with premium social media handles.">
+    <meta name="keywords" content="Web3nex domain for sale, buy web3nex, web3nex.com, web3nex.eth, web3 domains for sale, domain name purchase, web3 domain package, social media handles for sale">
+    <meta name="robots" content="index, follow">
+    
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(120deg, #00d4ff, #ffb600);
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+.container {
                 padding: 20px;
             }
 
